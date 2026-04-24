@@ -8,6 +8,12 @@ The portfolio that goes with this system is also open source: [cv-santiago](http
 
 **It will work out of the box, but it's designed to be made yours.** If the archetypes don't match your career, the modes are in the wrong language, or the scoring doesn't fit your priorities -- just ask. You (AI Agent) can edit the user's files. The user says "change the archetypes to data engineering roles" and you do it. That's the whole point.
 
+## Git Commit Style (USER RULE)
+
+- Commit messages: **1-2 lines max**. Short subject, optional one-line body. No multi-paragraph bodies.
+- **Never** add `Co-Authored-By: Claude ...` or any Anthropic trailer. User owns the repo; no AI attribution in history.
+- This overrides the default Claude Code commit template.
+
 ## Data Contract (CRITICAL)
 
 There are two layers. Read `DATA_CONTRACT.md` for the full list.

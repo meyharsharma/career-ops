@@ -3,3 +3,4 @@
 - [Phone](user_phone.md) — Phone number for applications
 - [CV 1 page](feedback_cv_one_page.md) — CVs must NEVER exceed 1 page, black text only, fill 90-95%
 - [CV tailoring](feedback_cv_tailoring.md) — Google X-Y-Z bullets, tailor summary+skills per role, always include cover letter
+- [Commit style](feedback_commit_style.md) — Commits 1-2 lines max, no Co-Authored-By Claude/Anthropic trailer
